@@ -1,4 +1,4 @@
-### **Snake Game - Description**  
+### **Snake++ - Description**  
 
 **Overview:**  
 Snake is a classic arcade-style game where the player controls a snake that grows in length as it eats food. The goal is to survive as long as possible without colliding with the walls or the snake's own body.  
